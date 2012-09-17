@@ -1,0 +1,16 @@
+function Main.main 1
+push local 0
+call Output.printInt 1
+pop temp 0
+push constant 0
+return
+function Main.m 0
+push argument 0
+pop pointer 0
+pop argument 0
+pop pointer 0
+push this 1
+call Output.printInt 1
+pop temp 0
+push pointer 0
+return

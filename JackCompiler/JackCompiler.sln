@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JackCompiler", "JackCompiler\JackCompiler.vcxproj", "{7F498649-FB59-45C6-9D3D-D574A74D180F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		JackToVM|Win32 = JackToVM|Win32
+		JackToXML|Win32 = JackToXML|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F498649-FB59-45C6-9D3D-D574A74D180F}.JackToVM|Win32.ActiveCfg = JackToVM|Win32
+		{7F498649-FB59-45C6-9D3D-D574A74D180F}.JackToVM|Win32.Build.0 = JackToVM|Win32
+		{7F498649-FB59-45C6-9D3D-D574A74D180F}.JackToXML|Win32.ActiveCfg = JackToXML|Win32
+		{7F498649-FB59-45C6-9D3D-D574A74D180F}.JackToXML|Win32.Build.0 = JackToXML|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

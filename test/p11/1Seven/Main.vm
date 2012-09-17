@@ -1,0 +1,20 @@
+function Main.main 1
+push local 0
+call Output.printInt 1
+pop temp 0
+push constant 0
+return
+function Main.m 1
+push argument 0
+pop pointer 0
+label WHILE_EXP0
+push constant 0
+not
+not
+if-goto WHILE_END0
+push constant 5
+push local 0
+goto WHILE_EXP0
+label WHILE_END0
+push pointer 0
+return
